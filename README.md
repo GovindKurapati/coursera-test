@@ -1,2 +1,6 @@
-# coursera-test
-A test repository for coursera course
+Coursera Assingment Repo
+========================
+
+# HTML,CSS and JavaScript
+
+    All the assignment solutions for the course are uploaded here.
