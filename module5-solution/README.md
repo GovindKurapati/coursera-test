@@ -1,1 +1,1 @@
-Using Ajax and optimizing the website.
+Using Ajax for optimizing the website.
